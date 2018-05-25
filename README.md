@@ -1,6 +1,6 @@
 # vibrato-docs - DEPRECATED
 
-Documentation moved to (Sex Toy Protocols I Have Known And Loved (STPIHKAL)[https://github.com/metafetish/stpihkal]. This repo is no longer being updated.
+Documentation moved to [Sex Toy Protocols I Have Known And Loved (STPIHKAL)](https://github.com/metafetish/stpihkal). This repo is no longer being updated.
 
 [![](https://api.travis-ci.org/metafetish/vibrato-docs.svg?branch=master)](https://travis-ci.org/metafetish/vibrato-docs) [![](https://readthedocs.org/projects/vibrato/badge/?version=latest)](http://libvibrato.readthedocs.io) [![Patreon donate button](https://img.shields.io/badge/patreon-donate-yellow.svg)](https://www.patreon.com/qdot)
 
